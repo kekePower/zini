@@ -1,7 +1,7 @@
 # zini
 A Zsh INI file reader.
 
-I created this Zsh function as part of my [Quick Site Generator 2](/kekePower/qsgen2) script to read the config file.
+I created this Zsh function as part of my [Quick Site Generator 2](https://github.com/kekePower/qsgen2) script to read the config file.
 
 ### Example INI file
 
