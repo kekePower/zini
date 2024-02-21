@@ -1,5 +1,8 @@
+# Last updated: 2024-02-21
+# 
 # zini function to parse INI files and store their content in an associative array
 zini() {
+
     local ini_path="$1"
     typeset -gA config
 
