@@ -35,5 +35,4 @@ zini() {
         fi
     done < "$ini_path"
 
-    # echo "Configuration loaded."
 }
