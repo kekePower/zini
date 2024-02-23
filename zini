@@ -1,4 +1,7 @@
-# Last updated: 2024-02-21
+# Last updated: 2024-02-23
+# License: GPLv3 or later
+#
+# https://github.com/kekePower/zini/
 # 
 # zini function to parse INI files and store their content in an associative array
 zini() {
